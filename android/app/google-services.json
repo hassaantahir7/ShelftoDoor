@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529103704570",
+    "project_id": "shelf2door-7446f",
+    "storage_bucket": "shelf2door-7446f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529103704570:android:a9962812be60ccad7e9443",
+        "android_client_info": {
+          "package_name": "com.shelf2doors.online_shelf2door"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsV5heDpq1-CebwpQ0DyDPuD-N5TUa0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
